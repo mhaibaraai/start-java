@@ -1,6 +1,10 @@
+/**
+ * Copyright © 2025 Yixuan Miao
+ */
+
 package com.movk.extentsconstructor;
 
-public class Teacher  extends People {
+public class Teacher extends People {
 
     private String subject;
 

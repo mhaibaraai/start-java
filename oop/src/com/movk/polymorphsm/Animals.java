@@ -1,3 +1,7 @@
+/**
+ * Copyright © 2025 Yixuan Miao
+ */
+
 package com.movk.polymorphsm;
 
 public class Animals {

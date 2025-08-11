@@ -1,8 +1,12 @@
+/**
+ * Copyright © 2025 Yixuan Miao
+ */
+
 package com.movk.polymorphsm;
 
 public class Tortoise extends Animals {
 
-    public  Tortoise() {
+    public Tortoise() {
         super("Tortoise");
     }
 
