@@ -1,6 +1,6 @@
 /*
  * @Author yixuanmiao
- * @Date 2025/08/11 21:15
+ * @Date 2025/08/12 10:04
  */
 
 package com.movk.code;
@@ -15,7 +15,7 @@ public class Test2 {
         System.out.println("main方法执行");
         // 测试实例代码块是否在对象创建时执行
         new Test2();
-        new  Test2();
-        new   Test2();
+        new Test2();
+        new Test2();
     }
 }
